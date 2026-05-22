@@ -4,7 +4,7 @@
 
 - 👯 I'm looking to collaborate on [**Microsphere Projects**](https://github.com/microsphere-projects)
 
-- 💬 Ask me about **An architecture of Spring Cloud Alibaba, as a member of the Apache Dubbo PMC, certified SUN Java（SCJP、SCWCD、SCBCD）, Oracle OCA, and so on.**
+- 💬 I'm **An architect of Spring Cloud Alibaba, as a member of the Apache Dubbo PMC, certified SUN Java（SCJP、SCWCD、SCBCD）, Oracle OCA, and so on.**
 
 - 📫 Email: mercyblitz@gmail.com
 - 😄 Wechat: mercyblitz-1985
