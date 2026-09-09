@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mercy Ma(aka "小马哥（mercyblitz）")
 
-- 🔭 I'm currently working on **Open Source projects, Micro-Services infrastructure, and Cloud-Native**
+- 🔭 I'm currently working on **Open Source projects including AI, Cloud-Native and Micro-Services infrastructure**
 
 - 👯 I'm looking to collaborate on [**Microsphere Projects**](https://github.com/microsphere-projects)
 
